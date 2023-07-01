@@ -1,0 +1,8 @@
+.cart_item > img {
+  width: 100px;
+  height: 100px;
+}
+.cart {
+  display: flex;
+  padding: 20px;
+}

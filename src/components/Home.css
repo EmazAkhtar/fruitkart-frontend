@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  padding: 100px;
+}
+.home_item {
+  margin-right: 10px;
+}
+/* .home > img {
+  height: 100px;
+  width: 100px;
+} */
+.darkmode {
+  background-color: gray;
+}

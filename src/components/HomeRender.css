@@ -1,0 +1,8 @@
+.home_item > img {
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+}
+.home_item {
+  margin-right: 30px;
+}

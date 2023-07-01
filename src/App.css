@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+}
+.app > header > nav {
+  display: flex;
+}
+.navbar {
+  display: block;
+}
+.darkmode {
+  background-color: gray;
+}
